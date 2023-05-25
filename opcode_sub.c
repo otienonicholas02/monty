@@ -11,7 +11,7 @@ void monty_sub(stack_t **head, unsigned int count)
 	int var, node;
 
 	x = *head;
-	
+
 	for (node = 0; x != NULL; node++)
 		x = x->next;
 	if (node < 2)

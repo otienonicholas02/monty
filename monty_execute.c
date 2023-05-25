@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
-* exec - executes the opcodes 
+* exec - executes the opcodes
 * @stack: head linked list - stack
 * @count: line_count
 * @file: points to the monty files

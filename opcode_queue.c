@@ -14,7 +14,7 @@ void monty_queue(stack_t **head, unsigned int count)
 
 /**
  * add_queue - add node to the tail stack
- * @n: new_value to add 
+ * @n: new_value to add
  * @head: head of the queue
  * Return: NONE
 */
