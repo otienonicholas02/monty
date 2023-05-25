@@ -5,7 +5,6 @@
  * @head: stack head
  * @count: line_number
  * Return: NONE
- * @author: Nicholas and Mesfin
 */
 void monty_mod(stack_t **head, unsigned int count)
 {
